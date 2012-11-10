@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+ruby: 
+ title: Diamond Bracelet
+ description:
+  1/8 CT round cut 10k white gold
+ price: 139.60
+ image_url: bracelet.jpg
+
